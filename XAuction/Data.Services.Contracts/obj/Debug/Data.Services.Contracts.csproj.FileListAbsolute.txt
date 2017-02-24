@@ -1,0 +1,8 @@
+C:\DEV\XAuction\XAuction\Data.Services.Contracts\bin\Debug\NLog.config
+C:\DEV\XAuction\XAuction\Data.Services.Contracts\bin\Debug\XAuction.Data.Services.Contracts.dll
+C:\DEV\XAuction\XAuction\Data.Services.Contracts\bin\Debug\XAuction.Data.Services.Contracts.pdb
+C:\DEV\XAuction\XAuction\Data.Services.Contracts\bin\Debug\NLog.dll
+C:\DEV\XAuction\XAuction\Data.Services.Contracts\bin\Debug\NLog.xml
+C:\DEV\XAuction\XAuction\Data.Services.Contracts\obj\Debug\Data.Services.Contracts.csprojResolveAssemblyReference.cache
+C:\DEV\XAuction\XAuction\Data.Services.Contracts\obj\Debug\XAuction.Data.Services.Contracts.dll
+C:\DEV\XAuction\XAuction\Data.Services.Contracts\obj\Debug\XAuction.Data.Services.Contracts.pdb

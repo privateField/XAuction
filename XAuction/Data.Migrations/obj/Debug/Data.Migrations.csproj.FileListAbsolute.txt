@@ -1,0 +1,11 @@
+C:\DEV\XAuction\XAuction\Data.Migrations\bin\Debug\NLog.config
+C:\DEV\XAuction\XAuction\Data.Migrations\bin\Debug\XAuction.Data.Migrations.dll
+C:\DEV\XAuction\XAuction\Data.Migrations\bin\Debug\XAuction.Data.Migrations.pdb
+C:\DEV\XAuction\XAuction\Data.Migrations\bin\Debug\FluentMigrator.dll
+C:\DEV\XAuction\XAuction\Data.Migrations\bin\Debug\NLog.dll
+C:\DEV\XAuction\XAuction\Data.Migrations\bin\Debug\FluentMigrator.pdb
+C:\DEV\XAuction\XAuction\Data.Migrations\bin\Debug\FluentMigrator.xml
+C:\DEV\XAuction\XAuction\Data.Migrations\bin\Debug\NLog.xml
+C:\DEV\XAuction\XAuction\Data.Migrations\obj\Debug\Data.Migrations.csprojResolveAssemblyReference.cache
+C:\DEV\XAuction\XAuction\Data.Migrations\obj\Debug\XAuction.Data.Migrations.dll
+C:\DEV\XAuction\XAuction\Data.Migrations\obj\Debug\XAuction.Data.Migrations.pdb
